@@ -1,4 +1,4 @@
-# Mutal-Fund-Holding-Analyzer
+# Mutual-Fund-Holding-Analyzer
 
 Analyzer made to Predict the NAV for a Mutual Fund.
 Made using Python libraries Pandas, Smtplib,Email mime and Yahoo Finance api.
